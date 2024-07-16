@@ -2,7 +2,7 @@
 
 **Data Preprocessing Tools - Discussed**
 
-**Sklearn - Preprocessing**
+**Sklearn.Preprocessing**
 The sklearn.preprocessing package provides several common utility functions and transformer classes to change raw feature vectors into a representation that is more suitable for the downstream estimators.
 
 **NumPy**
